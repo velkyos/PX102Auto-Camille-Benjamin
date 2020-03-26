@@ -1,3 +1,6 @@
+// Code appartenant à Benjamin Robert, 1A esisar, ne pas copier sans autorisation//
+
+
 package Class;
 import processing.core.PApplet;
 import Class.Fct;
